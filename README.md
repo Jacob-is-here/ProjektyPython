@@ -1,1 +1,1 @@
-# ProjektyPython
+# ProjektPython
